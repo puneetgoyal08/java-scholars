@@ -1,3 +1,3 @@
-module com.baeldung.student.client{
+﻿module com.baeldung.student.client{
     requires com.baeldung.student.service.dbimpl;
 }
